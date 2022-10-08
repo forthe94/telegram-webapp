@@ -1,0 +1,10 @@
+anyio @ file:///home/forthe/.cache/pypoetry/artifacts/cd/3f/ae/baff749ce6cb4d7985e4142650605d2d30cb92eb418e2d121868e4413d/anyio-3.6.1-py3-none-any.whl
+click @ file:///home/forthe/.cache/pypoetry/artifacts/63/f3/4c/2270b95f4d37b9ea73cd401abe68b6e9ede30380533cd4e7118a8e3aa3/click-8.1.3-py3-none-any.whl
+fastapi @ file:///home/forthe/.cache/pypoetry/artifacts/2d/cc/4b/b5a2b8f794a1b64df7460932b17a37b2b1ebfecc1cb26a333f8b4d91db/fastapi-0.85.0-py3-none-any.whl
+h11 @ file:///home/forthe/.cache/pypoetry/artifacts/eb/11/e2/ecdc45b11204c453bc727b99c3f31388aaba3d187e49db67e37aa86e18/h11-0.14.0-py3-none-any.whl
+idna @ file:///home/forthe/.cache/pypoetry/artifacts/6c/c4/9a/4a40812e61d669fffc474987128ff48aab9be33cdddc5e5038bd96f4ac/idna-3.4-py3-none-any.whl
+pydantic @ file:///home/forthe/.cache/pypoetry/artifacts/7c/2f/05/f83e6969a378f2817324cf9d9dd93ee6b656ced0291467e3eaf8c77983/pydantic-1.10.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+sniffio @ file:///home/forthe/.cache/pypoetry/artifacts/c9/3f/3e/8e46c9457f352d5bba461491356dfede8138f565b9e1015719034b36a1/sniffio-1.3.0-py3-none-any.whl
+starlette @ file:///home/forthe/.cache/pypoetry/artifacts/5f/9f/8b/92d08d810170b0d38d0ebbb13b8c8a7b292fa829bb433f848d30764492/starlette-0.20.4-py3-none-any.whl
+typing_extensions @ file:///home/forthe/.cache/pypoetry/artifacts/5a/62/d2/6e114f8e6602ecb5e40ed745c522ed05ef05b697e5432317e3de8b6bcd/typing_extensions-4.4.0-py3-none-any.whl
+uvicorn @ file:///home/forthe/.cache/pypoetry/artifacts/dc/c7/ea/137478fe64015d0b9def2b3a75778e5f9e86d81050d4651bbec111bfcd/uvicorn-0.18.3-py3-none-any.whl
