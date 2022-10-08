@@ -1,9 +1,10 @@
 from fastapi import FastAPI
-from fastapi.responses import FileResponse
+from fastapi.responses import HTMLResponse
 
 file_path = "index.html"
 app = FastAPI()
 
 @app.get("/")
 def main():
-    return FileResponse(path=file_path, filename=file_path, media_type='text/html')
+    with open(file_path, 'r') as file:
+        return HTMLResponse(content=file.read())
