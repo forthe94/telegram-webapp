@@ -22,7 +22,8 @@
             };
             function sendMessage(event) {
                 var input = document.getElementById("messageText")
-                ws.send(input.value)
+                var msg = '{"type": "coordinates_change", "new_x": ' + input.value + ', "new_y": 0 }'
+                ws.send(msg)
                 input.value = ''
                 event.preventDefault()
             }
